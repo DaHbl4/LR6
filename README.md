@@ -15,7 +15,7 @@
 
 Смотрю последние изменения
 
-![alt text]()
+![alt text](https://github.com/DaHbl4/LR6/blob/Statement/screns/3.PNG?raw=true)
 
 Выполняю слияние в ветку master, разрешив конфликт
 
