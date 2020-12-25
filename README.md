@@ -11,7 +11,7 @@
 
 Получаю историю операций для каждой из веток
 
-![alt text]()https://github.com/DaHbl4/LR6/blob/Statement/screns/2.PNG?raw=true
+![alt text](https://github.com/DaHbl4/LR6/blob/Statement/screns/2.PNG?raw=1)
 
 Смотрю последние изменения
 
