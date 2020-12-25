@@ -27,7 +27,7 @@
 
 Добавляю файл и использую hard для отката
 
-![alt text]()
+![alt text](https://github.com/DaHbl4/LR6/blob/Statement/screns/6.PNG?raw=true)
 
 Создаю ветку для отчета
 
