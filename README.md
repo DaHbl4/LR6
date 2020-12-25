@@ -31,7 +31,7 @@
 
 Создаю ветку для отчета
 
-![alt text]()
+![alt text](https://github.com/DaHbl4/LR6/blob/Statement/screns/7.PNG?raw=true)
 
 Получаю историю операций в форматированном виде
 
