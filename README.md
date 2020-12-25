@@ -8,9 +8,10 @@
 
 После клонирую удалённый репозиторий на компьютер
 ![alt text](https://github.com/DaHbl4/LR6/blob/Statement/screns/1.PNG?raw=true)
+
 Получаю историю операций для каждой из веток
 
-![alt text]()
+![alt text]()https://github.com/DaHbl4/LR6/blob/Statement/screns/2.PNG?raw=true
 
 Смотрю последние изменения
 
