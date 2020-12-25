@@ -19,7 +19,7 @@
 
 Выполняю слияние в ветку master, разрешив конфликт
 
-![alt text]()
+![alt text](https://github.com/DaHbl4/LR6/blob/Statement/screns/4.PNG?raw=true)
 
 Удаляю побочную ветку после успешного слияния
 
