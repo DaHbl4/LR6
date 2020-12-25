@@ -23,7 +23,7 @@
 
 Удаляю побочную ветку после успешного слияния
 
-![alt text]()
+![alt text](https://github.com/DaHbl4/LR6/blob/Statement/screns/5.PNG?raw=true)
 
 Добавляю файл и использую hard для отката
 
